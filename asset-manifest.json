@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blogvista-pagination/static/css/main.aea664a0.css",
+    "main.js": "/blogvista-pagination/static/js/main.fb631e38.js",
+    "index.html": "/blogvista-pagination/index.html",
+    "main.aea664a0.css.map": "/blogvista-pagination/static/css/main.aea664a0.css.map",
+    "main.fb631e38.js.map": "/blogvista-pagination/static/js/main.fb631e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea664a0.css",
+    "static/js/main.fb631e38.js"
+  ]
+}
